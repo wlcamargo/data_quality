@@ -2,7 +2,7 @@
 O projeto consiste em demonstrar como podemos utilizar data quality em projetos de engenharia de dados.
 
 ## Vídeo tutorial
-link: 
+link: https://www.youtube.com/watch?v=F2HFRKKdyz4
 
 ## Arquitetura
 ![image](assets/architecture-data-quality.png)
