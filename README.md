@@ -1,6 +1,9 @@
 # Data Quality
 O projeto consiste em demonstrar como podemos utilizar data quality em projetos de engenharia de dados.
 
+## Vídeo tutorial
+link: 
+
 ## Arquitetura
 ![image](assets/architecture-data-quality.png)
 
@@ -8,14 +11,16 @@ O projeto consiste em demonstrar como podemos utilizar data quality em projetos 
 Garantir a veracidade dos dados
 
 ## Requisitos
-Postgres
-Python
-Soda Core
+- Postgres
+
+- Python
+
+- Soda Core
 
 ## Como utilizar o projeto?
 ### Clone o repositório
 ```
-git clone 
+git clone https://github.com/wlcamargo/data_quality
 ```
 
 ### Crie e ative o ambiente virtual (Linux)
