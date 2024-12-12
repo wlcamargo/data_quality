@@ -1,0 +1,9 @@
+data_source conn_postgres:
+  type: postgres
+  connection:
+    host: localhost
+    port: '5435'
+    username: postgres
+    password: postgres
+    database: Adventureworks
+    schema: humanresources

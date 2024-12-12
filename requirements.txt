@@ -1,0 +1,2 @@
+soda-core-postgres==3.4.3
+setuptools

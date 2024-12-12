@@ -1,0 +1,14 @@
+checks for department:
+  - schema:
+      name: "Check for required columns in department table"
+      fail:
+        when required column missing: [departmentid, name, groupname, modifieddate, wallace]
+
+  - schema:
+      name: "Check for correct column types in department table"
+      fail:
+        when wrong column type:
+          departmentid: integer
+          name: text
+          groupname: text
+          modifieddate: timestamp
